@@ -21,9 +21,9 @@ Check whether the objects are equal or not using if-else condition
 </br> </br> </br> </br></br> </br>
  
  ## Program:
- Developed By: **Shafeeq Ahamed.S**
+ Developed By: **Sanjay Kumar S S**
  </br>
- Register No.: **212221230092**
+ Register No.: **212221240048**
  ```c#
 using System;
 
